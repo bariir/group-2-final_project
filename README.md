@@ -1,2 +1,7 @@
 # group-2-final_project
-## This is inside of my misse-group2
+## Database Mockup Entity Relationship Diagram (ERD)
+- This is the entity relationship diagram (ERD) based on Spotify music domain<br>
+
+
+
+
