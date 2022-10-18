@@ -6,7 +6,7 @@
 
 
 ## Links to images
-ERD for database mockup: [Resources/ERD_DatabaseMockup.png](https://github.com/bariir/group-2-final_project/tree/isse_project_code/Resources/Resources/ERD_DatabaseMockup.png?raw=true)<br>
+ERD for database mockup: [Resources/ERD_DatabaseMockup.png](https://github.com/bariir/group-2-final_project/tree/isse_project_code/Resources/ERD_DatabaseMockup.png?raw=true)<br>
 
 
 
