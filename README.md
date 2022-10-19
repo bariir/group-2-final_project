@@ -1,4 +1,4 @@
-  # group-2-final_project
+# group-2-final_project
 ## Entity Relationship Diagram (ERD) Database Mockup 
 This is the entity relationship diagram (ERD) based on Spotify music domain<br>
 - ERD for database mockup
