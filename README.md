@@ -6,5 +6,5 @@
 
 ### Communication protocols
   - For our communication between members of the group we have decided that we will primarily use github, Slack, Zoom and office hours. 
-  - Creating our own Zoom meeting times / dates has really helped each other understand code, help each other write code, and take advantage of our off days from class meetings.
+  - Creating our own Zoom meeting times / dates has really helped each other understand the code we are writing, help each other write code, and take advantage of our off days from class.
   - 
