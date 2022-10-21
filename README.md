@@ -18,7 +18,7 @@
 ### Roles
   - Triangle - Huzeyfe: Create A mockup for our machine learning model.
   - Square - Mohamed: Responsible for the repository. 
-  - Circle - Ken: Create A mockup of a database with A set of sample data.
+  - Circle - Ken: Create A mockup of a database with A set of sample data, Database mockup.
   - X - Kevin: Decide which technologies we will be using for each step of the project. 
   
 ### Communication protocols
