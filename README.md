@@ -25,14 +25,12 @@
   - For our communication between members of the group we have decided that we will primarily use github, Slack, Zoom and office hours. 
   - Creating our own Zoom meeting times / dates has really helped each other understand the code we are writing, help each other write code, and take advantage of our off days from class.
 
-### Outline
-  - Our first thought was to practice with a smaller data set to iron out any unforseen road blocks that may come up. 
-  - Next we started our code
 
 ### Technology used
   - When it comes to the technology our group is using we are able to branch off and use a wide variety of programs. Programs will be provided in bullet form below. 
 
   - Python
+  - VBA
   - Tableau
   - Matplotlib
   - Javascript
