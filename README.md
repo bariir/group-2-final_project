@@ -3,7 +3,18 @@
   - First we have decided to focus on a few main categories and leave the others out that we felt not necessary. The categories we are using are tempo, liveness, instrumentals, acoustics, speech, loudness, energy, and danceability.
 
 ### Exploratory Data Analysis
-  - 
+  - Needing to drop nulls from the dataset to find a precise and accurate outcome. 
+  
+  ![](/Resources/EDA3.png)
+  
+  - Getting rid of na's to get the Dataset even more precise so we can show an accurate outcome on the correlation heatmap.
+  
+  ![](/Resources/EDA2.png)
+  
+  - The correlation heatmap itself comparing categories with one another. 
+  
+  ![](/Resources/EDA1.png)
+  
 ### Roles
   - Triangle - Huzeyfe: Create A mockup for our machine learning model.
   - Square - Mohamed: Responsible for the repository. 
