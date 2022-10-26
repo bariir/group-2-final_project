@@ -2,6 +2,8 @@
   - For our groups final project of the course we have chosen to take on a large Spotify dataset and organize it to see what makes music popular in multiple categories including tempo, danceability, energy and others. 
   - First we have decided to focus on a few main categories and leave the others out that we felt not necessary. The categories we are using are tempo, liveness, instrumentals, acoustics, speech, loudness, energy, and danceability.
 
+### Question 
+
 ### Exploratory Data Analysis (EDA)
   - Needing to drop nulls from the dataset to find a precise and accurate outcome. 
   
