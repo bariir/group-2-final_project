@@ -2,6 +2,9 @@
   - For our groups final project of the course we have chosen to take on a large Spotify dataset and organize it to see what makes music popular in multiple categories including tempo, danceability, energy and others. 
   - First we have decided to focus on a few main categories and leave the others out that we felt not necessary. The categories we are using are tempo, liveness, instrumentals, acoustics, speech, loudness, energy, and danceability.
 
+### Question 
+  - The question we are looking to answer in this project is what makes music popular? What makes A song or artist rise to the top of the charts, is it the tempo of A song? is it the danceability of a song? or is it the instrumentals that make A song stand out? These are A few of the variables in our analysis that we plan to pull data for and figure out what makes A song / artist popular in music. 
+
 ### Exploratory Data Analysis (EDA)
   - Needing to drop nulls from the dataset to find a precise and accurate outcome. 
   
