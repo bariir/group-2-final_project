@@ -1,3 +1,4 @@
+-- Table Creation
 -- Create table artist
 CREATE TABLE artist (
   artist_id varchar(50) PRIMARY KEY,
@@ -45,3 +46,22 @@ CREATE TABLE album (
 	FOREIGN KEY (track_id) 
 	REFERENCES track(track_id)
 );
+
+
+
+-- Select queries
+-- Validate artist data
+SELECT artist_id, artist_name, artist_popularity, artist_genre
+	FROM public.artist
+LIMIT 20;
+
+-- Validate the data
+SELECT track_id, track_name, track_popularity, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, type, uri, track_href, analysis_url, duration_ms, time_signature
+	FROM public.track
+LIMIT 20;
+
+-- Validate data
+SELECT album_id, album_name, artist_id, track_id
+	FROM public.album
+LIMIT 20;
+
