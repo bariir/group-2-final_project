@@ -55,7 +55,7 @@ This is the entity relationship diagram (ERD) based on Spotify music data<br>
 - ERD for database
 ![ERD for database](/Resources/ERD.png)<br>
 
-- Database tables for music<br>
+## Database tables for music<br>
 - Artist table<br>
 ![Artist table](/Resources/artist_table.png)<br>
  
