@@ -18,6 +18,10 @@
   
   ![](/Resources/EDA1.png)
   
+  
+  - Tableau Dashboards for Exploratory Data Analysis<br>
+  ![Table Dashboard](https://public.tableau.com/app/profile/ken.akerman/viz/SpotifyAnalysis_Group2/Analysisdashboard?publish=yes)<br>
+  
 ### Roles
   - Triangle - Huzeyfe: Create A mockup for our machine learning model.
   - Square - Mohamed: Responsible for the repository. 
