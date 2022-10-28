@@ -20,7 +20,7 @@
   
   
   - Tableau Dashboards for Exploratory Data Analysis<br>
-  ![Table Dashboard](https://public.tableau.com/app/profile/ken.akerman/viz/SpotifyAnalysis_Group2/Analysisdashboard?publish=yes)<br>
+  https://public.tableau.com/app/profile/ken.akerman/viz/SpotifyAnalysis_Group2/Analysisdashboard?publish=yes
   
 ### Roles
   - Triangle - Huzeyfe: Create A mockup for our machine learning model.
