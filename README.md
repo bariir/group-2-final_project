@@ -21,7 +21,7 @@
 ## Entity Relationship Diagram (ERD) Database Mockup 
 This is the entity relationship diagram (ERD) based on Spotify music domain<br>
 - ERD for database mockup
-![ERD for database mockup](/Resources/ERD_DatabaseMockup.png)<br>
+![ERD for database mockup](/Resources/ERD_Mockup.png)<br>
 
 - Database tables for music mockup<br>
 ![Database tables for music mockup](/Resources/Database_Tables_For_Music_Mockup.png)<br>
