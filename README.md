@@ -69,6 +69,24 @@ This is the entity relationship diagram (ERD) based on Spotify music data<br>
 - Album table<br>
 ![Album table](/Resources/album_table.png)<br>
 
+## Glossary 
+- **Acousticness.** A confidence measure from 0.0 to 1.0 of whether the track is acoustic.
+
+- **Danceability.** A value of 0.0 is least danceable and 1.0 is most danceable.
+
+- **Energy.** A measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity.
+
+- **Instrumentalness.** Predicts whether a track has vocals or not. The greater likelihood the track contains no vocal         content. Values above 0.5 are intended to represent instrumental tracks, but confidence is higher as the value             approaches 1.0
+
+- **Liveness.** Detects the presence of an audience in the recording. A value above 0.8 provides strong likelihood that the     track is live.
+
+- **Loudness.** The overall loudness of a track in decibels (dB). Values typically range between -60 and 0 db.
+
+- **Speechiness.** Speechiness detects the presence of spoken words in a track. Values above 0.66 describe tracks that are     probably made entirely of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and       speech. Values below 0.33 most likely represent music.
+
+- **Tempo.** The overall estimated tempo of a track in beats per minute (BPM).
+
+- **Valence.** A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence     sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad,         depressed, angry).
 
 ## Links to images
 ERD for database mockup: [Resources/ERD_DatabaseMockup.png](https://github.com/bariir/group-2-final_project/tree/isse_project_code/Resources/ERD_DatabaseMockup.png?raw=true)<br>
@@ -78,3 +96,7 @@ Database tables for music mockup: [Resources/Database_Tables_For_Music_Mockup.pn
 Screenshots used for EDA: [/Resources/EDA1.png](https://github.com/bariir/group-2-final_project/blob/main/Resources/EDA1.png)
 [/Resources/EDA2.png](https://github.com/bariir/group-2-final_project/blob/main/Resources/EDA2.png)
 [/Resources/EDA3.png](https://github.com/bariir/group-2-final_project/blob/main/Resources/EDA3.png)
+
+## Work Cited
+Definitions found for Glossary:
+[Spotify Audio Features](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features).
