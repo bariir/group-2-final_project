@@ -23,10 +23,10 @@
   https://public.tableau.com/app/profile/ken.akerman/viz/SpotifyAnalysis_Group2/Analysisdashboard?publish=yes
   
 ### Roles
-  - Triangle - Huzeyfe: Create A mockup for our machine learning model.
-  - Square - Mohamed: Responsible for the repository. 
-  - Circle - Ken: Create A mockup of a database with A set of sample data, Database mockup.
-  - X - Kevin: Decide which technologies we will be using for each step of the project. 
+  - Triangle - Huzeyfe: Create a draft presentation to share with your class.
+  - Square - Mohamed: Complete peer reviews on the code. 
+  - Circle - Ken: Create a dashboard to display your findings.
+  - X - Kevin: Perform a quality assurance check on project deliverables against rubric requirements, and test the code. 
   
 ### Communication protocols
   - For our communication between members of the group we have decided that we will primarily use github, Slack, Zoom and office hours. 
