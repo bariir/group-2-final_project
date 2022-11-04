@@ -25,31 +25,31 @@
    ## Glossary
    
   - **Acousticness.** number<float>
-  A confidence measure from 0.0 to 1.0 of whether the track is acoustic.
+    A confidence measure from 0.0 to 1.0 of whether the track is acoustic.
 
   - **Danceability.** number<float> 
-  A value of 0.0 is least danceable and 1.0 is most danceable.
+    A value of 0.0 is least danceable and 1.0 is most danceable.
 
   - **Energy.** number<float> 
-  A measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity.
+    A measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity.
 
   - **Instrumentalness.** number<float> 
-  Predicts whether a track has vocals or not. The greater likelihood the track contains no vocal content. Values above 0.5 are intended to represent instrumental tracks, but confidence is higher as the value approaches 1.0
+    Predicts whether a track has vocals or not. The greater likelihood the track contains no vocal content. Values above 0.5 are intended to represent instrumental         tracks, but confidence is higher as the value approaches 1.0
 
   - **Liveness.** number<float>
-  Detects the presence of an audience in the recording. A value above 0.8 provides strong likelihood that the track is live.
+    Detects the presence of an audience in the recording. A value above 0.8 provides strong likelihood that the track is live.
 
   - **Loudness.** number<float>
-  The overall loudness of a track in decibels (dB). Values typically range between -60 and 0 db.
+    The overall loudness of a track in decibels (dB). Values typically range between -60 and 0 db.
 
   - **Speechiness.** number<float>
-  Speechiness detects the presence of spoken words in a track. Values above 0.66 describe tracks that are probably made entirely of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and speech. Values below  0.33 most likely represent music.
+    Speechiness detects the presence of spoken words in a track. Values above 0.66 describe tracks that are probably made entirely of spoken words. Values between 0.33     and 0.66 describe tracks that may contain both music and speech. Values below  0.33 most likely represent music.
 
   - **Tempo.** number<float>
-  The overall estimated tempo of a track in beats per minute (BPM).
+    The overall estimated tempo of a track in beats per minute (BPM).
 
   - **Valence.** number<float>
-  A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
+    A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric),       while tracks with low valence sound more negative (e.g. sad, depressed, angry).
   
   - Tableau Dashboards for Exploratory Data Analysis<br>
   [Tableau Presentation](https://public.tableau.com/app/profile/ken.akerman/viz/SpotifyAnalysis_Group2/Analysisdashboard?publish=yes)
@@ -66,8 +66,7 @@
 
 
 ### Technology used
-  - When it comes to the technology our group is using we are able to branch off and use a wide variety of programs. Programs will be provided in bullet form below. 
-
+  When it comes to the technology our group is using we are able to branch off and use a wide variety of programs. Programs will be provided in bullet form below. 
   - Python
   - VBA
   - Tableau
