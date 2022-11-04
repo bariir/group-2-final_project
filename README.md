@@ -1,9 +1,5 @@
 ### Overview / Purpose
-  - For our groups final project of the course we have chosen to take on a large Spotify dataset and organize it to see what makes music popular in multiple categories including tempo, danceability, energy and others. 
-  - First we have decided to focus on a few main categories and leave the others out that we felt not necessary. The categories we are using are tempo, liveness, instrumentals, acoustics, speech, loudness, energy, and danceability.
 
-### Question 
-  - The question we are looking to answer in this project is what makes music popular? What makes A song or artist rise to the top of the charts, is it the tempo of A song? is it the danceability of a song? or is it the instrumentals that make A song stand out? These are A few of the variables in our analysis that we plan to pull data for and figure out what makes A song / artist popular in music. 
 
 ### Exploratory Data Analysis (EDA)
   - Needing to drop nulls from the dataset to find a precise and accurate outcome. 
@@ -17,12 +13,7 @@
   - The correlation heatmap itself comparing categories with one another. 
   
   ![](/Resources/EDA1.png)
-  
-### Roles
-  - Triangle - Huzeyfe: Create A mockup for our machine learning model.
-  - Square - Mohamed: Responsible for the repository. 
-  - Circle - Ken: Create A mockup of a database with A set of sample data, Database mockup.
-  - X - Kevin: Decide which technologies we will be using for each step of the project. 
+
   
 ### Communication protocols
   - For our communication between members of the group we have decided that we will primarily use github, Slack, Zoom and office hours. 
@@ -44,10 +35,11 @@
 ## Entity Relationship Diagram (ERD) Database Mockup 
 This is the entity relationship diagram (ERD) based on Spotify music domain<br>
 - ERD for database mockup
-![ERD for database mockup](/Resources/ERD_DatabaseMockup.png)<br>
+
 
 - Database tables for music mockup<br>
 ![Database tables for music mockup](/Resources/Database_Tables_For_Music_Mockup.png)<br>
+
 
 
 ## Links to images
@@ -58,3 +50,4 @@ Database tables for music mockup: [Resources/Database_Tables_For_Music_Mockup.pn
 Screenshots used for EDA: [/Resources/EDA1.png](https://github.com/bariir/group-2-final_project/blob/main/Resources/EDA1.png)
 [/Resources/EDA2.png](https://github.com/bariir/group-2-final_project/blob/main/Resources/EDA2.png)
 [/Resources/EDA3.png](https://github.com/bariir/group-2-final_project/blob/main/Resources/EDA3.png)
+
