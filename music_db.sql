@@ -1,9 +1,21 @@
-
+-- Create table artist
+CREATE TABLE artist (
+  artist_id varchar(50) PRIMARY KEY,
+  artist_name varchar(100),
+  artist_popularity smallint,
   artist_genre varchar (200)
 );
 
-
-
+-- Create table track
+CREATE TABLE track (
+  track_id varchar(50) PRIMARY KEY,
+  track_name varchar(100),
+  track_popularity smallint,
+  danceability decimal(10,3),
+  energy decimal(10,3),
+  key smallint,
+  loudness decimal(10,3),
+  mode smallint,
   speechiness decimal(10,3),
   acousticness decimal(10,3),
   instrumentalness decimal(10,3),
@@ -14,6 +26,9 @@
   uri varchar(50),
   track_href varchar(100),
   analysis_url varchar(100),
+  duration_ms int,
+  time_signature smallint
+);
 
 CREATE TABLE album (
   album_id varchar(50) PRIMARY KEY,
@@ -30,17 +45,44 @@ CREATE TABLE album (
 
 -- Select queries
 -- Validate artist data
-SELECT artist_id, artist_name, artist_popularity, artist_genre
+SELECT 
+artist_id, 
+artist_name, 
+artist_popularity, 
+artist_genre
 	FROM public.artist
 LIMIT 20;
 
 -- Validate the data
-SELECT track_id, track_name, track_popularity, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, type, uri, track_href, analysis_url, duration_ms, time_signature
-	FROM public.track
+SELECT 
+track_id, track_name, 
+track_popularity, 
+danceability, 
+energy, 
+key, 
+loudness, 
+mode, 
+speechiness, 
+acousticness, 
+instrumentalness, 
+liveness, 
+valence, 
+tempo, 
+type, 
+uri, 
+track_href, 
+analysis_url, 
+duration_ms, 
+time_signature
+  FROM public.track
 LIMIT 20;
 
 -- Validate data
-SELECT album_id, album_name, artist_id, track_id
+SELECT 
+album_id, 
+album_name, 
+artist_id, 
+track_id
 	FROM public.album
 LIMIT 20;
 
