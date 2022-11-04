@@ -3,7 +3,7 @@
   - First we have decided to focus on a few main categories and leave the others out that we felt not necessary. The categories we are using are tempo, liveness, instrumentals, acoustics, speech, Loudness, energy, and danceability.
 
 ### Google Slides Presentation / Visualization 
-  ### [Presentation](https://docs.google.com/presentation/d/1yMUxBFe_IQZvvmOrX5EbOusNDbHpxKFGl23NQcmd6k4/edit?usp=sharing)
+  - ### [Presentation](https://docs.google.com/presentation/d/1yMUxBFe_IQZvvmOrX5EbOusNDbHpxKFGl23NQcmd6k4/edit?usp=sharing)
 
 
 ### Question 
