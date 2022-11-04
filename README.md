@@ -3,7 +3,7 @@
   - First we have decided to focus on a few main categories and leave the others out that we felt not necessary. The categories we are using are tempo, liveness, instrumentals, acoustics, speech, Loudness, energy, and danceability.
 
 ### Google Slides Presentation / Visualization 
-[Presentation](https://docs.google.com/presentation/d/1yMUxBFe_IQZvvmOrX5EbOusNDbHpxKFGl23NQcmd6k4/edit?usp=sharing)
+### [Presentation](https://docs.google.com/presentation/d/1yMUxBFe_IQZvvmOrX5EbOusNDbHpxKFGl23NQcmd6k4/edit?usp=sharing)
 
 ### Question 
   - The question we are looking to answer in this project is what makes music popular? What makes a track or artist rise to the top of the charts, is it the tempo of a song? is it the danceability of a song? or is it the instrumentals that make a song stand out? These are a few of the variables in our analysis that we plan to pull data for and figure out what makes a song / artist popular in music. 
