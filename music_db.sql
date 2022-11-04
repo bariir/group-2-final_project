@@ -1,22 +1,9 @@
--- Create artist table
-CREATE TABLE artist (
-  artist_id varchar(50) PRIMARY KEY,
-  artist_name varchar(100),
-  artist_popularity smallint,
+
   artist_genre varchar (200)
 );
 
 
--- Create track table
-CREATE TABLE track (
-  track_id varchar(50) PRIMARY KEY,
-  track_name varchar(100),
-  track_popularity smallint,
-  danceability decimal(10,3),
-  energy decimal(10,3),
-  key smallint,
-  loudness decimal(10,3),
-  mode smallint,
+
   speechiness decimal(10,3),
   acousticness decimal(10,3),
   instrumentalness decimal(10,3),
@@ -27,12 +14,7 @@ CREATE TABLE track (
   uri varchar(50),
   track_href varchar(100),
   analysis_url varchar(100),
-  duration_ms int,
-  time_signature smallint
-);
 
-
--- Create album table
 CREATE TABLE album (
   album_id varchar(50) PRIMARY KEY,
   album_name varchar(100),
