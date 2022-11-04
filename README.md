@@ -1,9 +1,13 @@
 ### Overview / Purpose
-  - For our groups final project of the course we have chosen to take on a large Spotify dataset and organize it to see what makes music popular in multiple categories including tempo, danceability, energy and others. 
-  - First we have decided to focus on a few main categories and leave the others out that we felt not necessary. The categories we are using are tempo, liveness, instrumentals, acoustics, speech, loudness, energy, and danceability.
+  - For our groups final project of the course we have chosen to take on a large Spotify dataset about music and organize it to see what makes music popular in multiple categories including tempo, danceability, energy and others. 
+  - First we have decided to focus on a few main categories and leave the others out that we felt not necessary. The categories we are using are tempo, liveness, instrumentals, acoustics, speech, Loudness, energy, and danceability.
+
+### Google Slides Presentation / Visualization 
+  - ### [Presentation](https://docs.google.com/presentation/d/1yMUxBFe_IQZvvmOrX5EbOusNDbHpxKFGl23NQcmd6k4/edit?usp=sharing)
+
 
 ### Question 
-  - The question we are looking to answer in this project is what makes music popular? What makes A song or artist rise to the top of the charts, is it the tempo of A song? is it the danceability of a song? or is it the instrumentals that make A song stand out? These are A few of the variables in our analysis that we plan to pull data for and figure out what makes A song / artist popular in music. 
+  - The question we are looking to answer in this project is what makes music popular? What makes a track or artist rise to the top of the charts, is it the tempo of a song? is it the danceability of a song? or is it the instrumentals that make a song stand out? These are a few of the variables in our analysis that we plan to pull data for and figure out what makes a song / artist popular in music. 
 
 ### Exploratory Data Analysis (EDA)
   - Needing to drop nulls from the dataset to find a precise and accurate outcome. 
@@ -17,10 +21,36 @@
   - The correlation heatmap itself comparing categories with one another. 
   
   ![](/Resources/EDA1.png)
-  
+   
+  - **Acousticness.** number<float>
+  A confidence measure from 0.0 to 1.0 of whether the track is acoustic.
+
+  - **Danceability.** number<float> 
+  A value of 0.0 is least danceable and 1.0 is most danceable.
+
+  - **Energy.** number<float> 
+  A measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity.
+
+  - **Instrumentalness.** number<float> 
+  Predicts whether a track has vocals or not. The greater likelihood the track contains no vocal content. Values above 0.5   are intended to represent instrumental tracks, but confidence is higher as the value approaches 1.0
+
+  - **Liveness.** number<float>
+  Detects the presence of an audience in the recording. A value above 0.8 provides strong likelihood that         the track   is live.
+
+  - **Loudness.** number<float>
+  The overall loudness of a track in decibels (dB). Values typically range between -60 and 0 db.
+
+  - **Speechiness.** number<float>
+  Speechiness detects the presence of spoken words in a track. Values above 0.66 describe tracks that are probably made       entirely of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and speech. Values       below  0.33 most likely represent music.
+
+  - **Tempo.** number<float>
+  The overall estimated tempo of a track in beats per minute (BPM).
+
+  - **Valence.** number<float>
+  A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more     positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed,         angry).
   
   - Tableau Dashboards for Exploratory Data Analysis<br>
-  https://public.tableau.com/app/profile/ken.akerman/viz/SpotifyAnalysis_Group2/Analysisdashboard?publish=yes
+  [Tableau Presentation](https://public.tableau.com/app/profile/ken.akerman/viz/SpotifyAnalysis_Group2/Analysisdashboard?     publish=yes)
   
 ### Roles
   - Triangle - Huzeyfe: Create a draft presentation to share with your class.
@@ -70,23 +100,6 @@ This is the entity relationship diagram (ERD) based on Spotify music data<br>
 ![Album table](/Resources/album_table.png)<br>
 
 ## Glossary 
-- **Acousticness.** A confidence measure from 0.0 to 1.0 of whether the track is acoustic.
-
-- **Danceability.** A value of 0.0 is least danceable and 1.0 is most danceable.
-
-- **Energy.** A measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity.
-
-- **Instrumentalness.** Predicts whether a track has vocals or not. The greater likelihood the track contains no vocal         content. Values above 0.5 are intended to represent instrumental tracks, but confidence is higher as the value             approaches 1.0
-
-- **Liveness.** Detects the presence of an audience in the recording. A value above 0.8 provides strong likelihood that the     track is live.
-
-- **Loudness.** The overall loudness of a track in decibels (dB). Values typically range between -60 and 0 db.
-
-- **Speechiness.** Speechiness detects the presence of spoken words in a track. Values above 0.66 describe tracks that are     probably made entirely of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and       speech. Values below 0.33 most likely represent music.
-
-- **Tempo.** The overall estimated tempo of a track in beats per minute (BPM).
-
-- **Valence.** A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence     sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad,         depressed, angry).
 
 ## Links to images
 ERD for database mockup: [Resources/ERD_DatabaseMockup.png](https://github.com/bariir/group-2-final_project/tree/isse_project_code/Resources/ERD_DatabaseMockup.png?raw=true)<br>
