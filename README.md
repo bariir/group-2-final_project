@@ -22,6 +22,11 @@
   
   ![](/Resources/EDA1.png)
   
+  ## Tableau
+  - Tableau Dashboards for Exploratory Data Analysis<br>
+  [Tableau Presentation](https://public.tableau.com/app/profile/ken.akerman/viz/SpotifyAnalysis_Group2/Story?publish=yes)<br>
+  
+  
    ## Glossary
    
   - **Acousticness.** number<float>
@@ -51,8 +56,6 @@
   - **Valence.** number<float>
     A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric),       while tracks with low valence sound more negative (e.g. sad, depressed, angry).
   
-  - Tableau Dashboards for Exploratory Data Analysis<br>
-  [Tableau Presentation](https://public.tableau.com/app/profile/ken.akerman/viz/SpotifyAnalysis_Group2/Story?publish=yes)
   
 ### Roles
   - Triangle - Huzeyfe: Create a draft presentation to share with your class.
