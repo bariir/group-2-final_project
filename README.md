@@ -27,7 +27,7 @@
   [Tableau Presentation](https://public.tableau.com/app/profile/ken.akerman/viz/SpotifyAnalysis_Group2/Story?publish=yes)<br>
   
   
-   ## Glossary
+   ## Audio Features
    
   - **Acousticness.** number<float>
     A confidence measure from 0.0 to 1.0 of whether the track is acoustic.
