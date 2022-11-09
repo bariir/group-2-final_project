@@ -113,5 +113,5 @@ Screenshots used for EDA: [/Resources/EDA1.png](https://github.com/bariir/group-
 [/Resources/EDA3.png](https://github.com/bariir/group-2-final_project/blob/main/Resources/EDA3.png)
 
 ## Work Cited
-Definitions found for Glossary:
+Definitions found for Audio Features:
 [Spotify Audio Features](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features).
