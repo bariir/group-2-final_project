@@ -58,10 +58,10 @@
   
   
 ### Roles
-  - Triangle - Huzeyfe: Create a draft presentation to share with your class.
-  - Square - Mohamed: Complete peer reviews on the code. 
-  - Circle - Ken: Create a dashboard to display your findings.
-  - X - Kevin: Perform a quality assurance check on project deliverables against rubric requirements, and test the code. 
+  - Triangle - Huzeyfe: Final touches on visual aspects with the presentation and dashboard. Make sure the images tell the     story cleanly and clearly.
+  - Square - Mohamed: Final updates to the README.md on the project repository (make sure there is a description of the         project, explain why this topic was chosen, include images from the analysis, and the conclusion)—make the repository       portfolio-ready.
+  - Circle - Ken:  Ensure all applicable PRs are merged in (includes finishing up peer reviews and merging branches).           Conduct final editorial review (clean up code to meet coding guidelines, check for typos, clarity, etc.).
+  - X - Kevin: Review the rubric and ensure the project meets the requirements, and test the code.
   
 ### Communication protocols
   - For our communication between members of the group we have decided that we will primarily use github, Slack, Zoom and office hours. 
