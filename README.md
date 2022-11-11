@@ -1,5 +1,5 @@
 ### Overview / Purpose
-  - For our groups final project of the course we have chosen to take on a large Spotify dataset about music and organize it to see what makes music popular in multiple categories including tempo, danceability, energy and others. 
+  - For our final project we have chosen to take on a large Spotify dataset about music and organize it to see what makes music popular in multiple categories including tempo, danceability, energy and others. 
   - First we have decided to focus on a few main categories and leave the others out that we felt not necessary. The categories we are using are tempo, liveness, instrumentals, acoustics, speech, Loudness, energy, and danceability.
 
 ### Google Slides Presentation / Visualization 
